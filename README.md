@@ -11,21 +11,21 @@ The system is an elevator system circuit that receive inputs from button inputs.
 
 
 ### FSM Diagram:
-![Space N = 800](images/Diagram.png)
+![Space N = 800](FSMdiagram.png)
 
 ### State and Transition table:
-![Space N = 800](images/Truth.png)
+![Space N = 800](statetransition.png)
 
 ### Karnaugh Map:
 
 #### S'0
-![Space N = 800](images/S0.png)
+![Space N = 800](KMAP1&3.png)
 
 #### S'1
-![Space N = 800](images/S1.png)
+![Space N = 800](KMAP2.png)
 
 #### Output
-![Space N = 800](images/Output.png)
+![Space N = 800](KMAP1&3.png)
 
 
 ## Visualisation
