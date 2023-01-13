@@ -33,6 +33,8 @@ The system is an automatic braking system circuit that receive inputs from signs
 
 
 ## Visualisation
+
+
 This is the visualization of the car moving when there is no danger(0)![Space N = 800](images/moving.gif)
 
 
