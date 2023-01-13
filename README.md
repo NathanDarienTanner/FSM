@@ -33,8 +33,9 @@ The system is an automatic braking system circuit that receive inputs from signs
 
 
 ## Visualisation
-
+This is the visualization of the car moving when there is no danger(0)
 ![Space N = 800](images/moving.gif)
 
 
+This is the visualization of the car sensing danger(1) and moving slower by braking, if the car still senses danger(1) it will come to a stop and once it doesn't sense danger anymore(0) it will continue to move, alternatively if when braking the car doesn't sense danger anymore(0), it will continue moving like before.
 ![Space N = 800](images/braking.gif)
