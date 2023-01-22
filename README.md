@@ -42,4 +42,4 @@ This is the visualization of the car moving when there is no danger(0)
 This is the visualization of the car sensing danger(1) and moving slower by braking, if the car still senses danger(1) it will come to a stop and once it doesn't sense danger anymore(0) it will continue to move, alternatively if when braking the car doesn't sense danger anymore(0), it will continue moving like before.
 
 
-![Space N = 800](images/braking (1).gif)
+![Space N = 800](images/braking(1).gif)
