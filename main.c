@@ -376,7 +376,7 @@ int main(void) {
                 if (i == 2){
                     car_braking10();
                 }
-                sleep(1.5);
+                sleep(2);
                 printf("\033[2J");
                 printf("\033[1;1H");
             }
